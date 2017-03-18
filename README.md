@@ -3,7 +3,7 @@
 >**Author: Jingyi Chen**	
 >**jc2834@cornell.edu**
 
-###Coding logic:
+### Coding logic:
 * **SEARCH:**
 
 Use a search helper to locate the key recursively.
